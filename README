@@ -1,0 +1,9 @@
+This downloads MP3s from Amazon Cloud Drive's .amz.
+
+To use:
+
+Put the shell script somewhere in your $PATH
+
+Make a directory
+
+Run the shell script
